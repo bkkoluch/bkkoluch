@@ -16,14 +16,13 @@ Tech stack:
 <img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Github" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Azure DevOps" height="32" width="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png" />
-
-
 </br>
+</br>
+
+
 
 👇 Below you can find some of my projects 👇
-
-</br>
-
+<br>
 💬 Feel free to email me for any info 💬
 
 <!--
