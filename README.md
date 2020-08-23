@@ -1,7 +1,7 @@
 ### Hi there 👋! 
 My name is Bartosz Koluch and welcome to my github. 
 
-I'm a junior frontend developer currently looking for a job. I have over 1 year of commercial experience.
+I'm a junior frontend developer
 
 👇 Below you can find some of my projects 👇
 <br>
