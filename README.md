@@ -2,7 +2,7 @@
 
 - 🔥 Flutter Engineer
 - 📫 Reach me at <a href="https://www.linkedin.com/in/bartosz-koluch">LinkedIn</a>
-- 👇 Below you can find technologies I use the most
+- 👇 Below you can find the stack I use the most
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#)
