@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋!
 
 - 🔥 Flutter Engineer
 - 📫 Reach me at <a href="https://www.linkedin.com/in/bartosz-koluch">LinkedIn</a>
